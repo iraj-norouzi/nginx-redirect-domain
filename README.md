@@ -1,1 +1,2 @@
 # nginx-redirect-domain
+#test
